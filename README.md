@@ -9,8 +9,8 @@
 ### :woman_technologist: About Me :
 I am a Backend Developer from Brazil.
   - :relaxed: I'm looking for a job opportunity as Junior Backend Developer with Nodejs 📱
-- :zap: I’m currently learning Backend Dev with NodeJs
-- 🔭 I'm studying Backend Dev.
+- :zap: I’m currently learning backend applications with NodeJS.
+- 🔭 I'm studying Backend.
 
 ---
 
