@@ -10,7 +10,7 @@
 I am a Backend Developer from Brazil.
   - :relaxed: I'm looking for a job opportunity as Junior Backend Developer with Nodejs 📱
 - :zap: I’m currently learning backend applications with NodeJS.
-- 🔭 I'm studying Backend.
+- 🔭 I'm studying AspNet.
 
 ---
 
