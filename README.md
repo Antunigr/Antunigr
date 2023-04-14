@@ -7,9 +7,9 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Backend Developer from Brazil.
-  - :relaxed: I'm looking for a job opportunity as Junior Backend Developer with Nodejs 📱
-- :zap: I’m currently learning AspNet framework.
+Sou um desenvolvedor Backend C#
+  - :relaxed: Estou procurando por uma oportunidade de trabalhar na área como Junior .
+- :zap: No momento estou estudando AspNet .
 
 
 ---
@@ -19,10 +19,10 @@ I am a Backend Developer from Brazil.
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 
 </div>
 
