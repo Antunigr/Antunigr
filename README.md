@@ -10,6 +10,8 @@
 Sou um desenvolvedor Backend C#
   - :relaxed: Estou procurando por uma oportunidade de trabalhar na área como Junior.
 - :zap: No momento estou estudando AspNetCore.
+ 
+ projeto novo saindo em breve
 
 
 ---
