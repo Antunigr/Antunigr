@@ -7,9 +7,9 @@
 </div>
 
 ### :woman_technologist: About Me :
-Sou um desenvolvedor Backend C#
+Sou um desenvolvedor .NET
   - :relaxed: Estou procurando por uma oportunidade de trabalhar na área como Junior.
-- :zap: No momento estou estudando AspNetCore.
+- :zap: No momento estou estudando AspNet Core.
  
  projeto novo saindo em breve
 
