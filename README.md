@@ -7,7 +7,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-  - :zap: No momento estou estudando SwiftUi.
+  - :zap: No momento estou estudando SwiftUI.
   - :relaxed: Estou procurando por uma oportunidade de trabalhar na área.
 
 
